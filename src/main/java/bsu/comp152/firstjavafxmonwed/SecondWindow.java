@@ -9,6 +9,6 @@ public class SecondWindow {
 
     @FXML
     public void handleButtonClick(){
-
+        ourMessage.setText("Comp 152 - lets get javaFX");
     }
 }
